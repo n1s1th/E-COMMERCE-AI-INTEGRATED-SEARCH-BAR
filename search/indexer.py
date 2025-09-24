@@ -45,8 +45,6 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
     product_type = (raw.get("product_type") or "").strip().lower()
 
     attributes_text = flatten_attributes(raw.get("attributes", {}))
-
-    # Gender, occasion, style can be added to attributes_text if you wish
     for field in ["gender", "occasion", "style"]:
         vals = raw.get(field)
         if vals:
@@ -56,12 +54,12 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
     for variant in variants:
         variant_id = variant.get("variant_id") or ""
         price_obj = variant.get("price") or {}
-        #price = float(price_obj.get("final_price", 0.0))
         raw_price = price_obj.get("final_price", 0.0)
         try:
             price = float(raw_price) if raw_price is not None else 0.0
         except (TypeError, ValueError):
             price = 0.0
+
         sizes_list = variant.get("sizes") or []
         sizes_csv = ",".join([str(s).lower() for s in sizes_list])
         color_list = variant.get("color") or []
@@ -73,8 +71,6 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
             image = images[0]
         pdp_url = variant.get("pdp_url") or ""
         full_text = variant.get("full_text") or ""
-
-        # Compose autocomplete source
         autocomplete_source = " ".join([product_name, brand_slug, category]).strip()
         
         yield dict(
@@ -92,8 +88,8 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
             pdp_url=pdp_url,
             image=image or "",
             autocomplete=autocomplete_source,
-        )
-
+    )
+        
 def iter_products(json_path: str) -> Iterable[Dict[str, Any]]:
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
