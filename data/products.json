@@ -1,0 +1,17 @@
+[
+  {
+    "id": "SKU-123",
+    "product_name": "Iveena Dress",
+    "brand_slug": "iveena",
+    "category": "dresses",
+    "product_type": "evening",
+    "attributes": ["strapless", "silk"],
+    "full_text": "An elegant strapless silk dress in emerald green.",
+    "price": { "final_price": 129.99 },
+    "variants": { "images": ["https://example.com/img/iveena.jpg"] },
+    "sizes": ["S", "M", "L"],
+    "color": "emerald",
+    "in_stock": true,
+    "pdp_url": "https://shop.example.com/p/iveena-dress"
+  }
+]
