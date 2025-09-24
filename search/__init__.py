@@ -1,0 +1,1 @@
+# intentionally empty to allow `python -m search.indexer`
