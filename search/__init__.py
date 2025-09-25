@@ -1,1 +1,1 @@
-# intentionally empty to allow `python -m search.indexer`
+# intentionally empty to allow `python -m search.indexer`.
