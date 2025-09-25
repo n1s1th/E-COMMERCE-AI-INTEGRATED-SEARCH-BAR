@@ -55,10 +55,13 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
         variant_id = variant.get("variant_id") or ""
         price_obj = variant.get("price") or {}
         raw_price = price_obj.get("final_price", 0.0)
-        try:
-            price = float(raw_price) if raw_price is not None else 0.0
-        except (TypeError, ValueError):
+        if raw_price is None:
             price = 0.0
+        else:
+            try:
+                price = float(str(raw_price).strip())  # Handles "8990", 8990, None, ""
+            except (ValueError, TypeError):
+                price = 0.0
 
         sizes_list = variant.get("sizes") or []
         sizes_csv = ",".join([str(s).lower() for s in sizes_list])
