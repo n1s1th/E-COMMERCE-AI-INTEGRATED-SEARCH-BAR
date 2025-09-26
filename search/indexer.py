@@ -55,11 +55,12 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
         variant_id = variant.get("variant_id") or ""
         price_obj = variant.get("price") or {}
         raw_price = price_obj.get("final_price", 0.0)
+        # Defensive conversion
         if raw_price is None:
             price = 0.0
         else:
             try:
-                price = float(str(raw_price).strip())  # Handles "8990", 8990, None, ""
+                price = float(str(raw_price).strip())
             except (ValueError, TypeError):
                 price = 0.0
 
@@ -91,7 +92,7 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
             pdp_url=pdp_url,
             image=image or "",
             autocomplete=autocomplete_source,
-    )
+        )
         
 def iter_products(json_path: str) -> Iterable[Dict[str, Any]]:
     with open(json_path, "r", encoding="utf-8") as f:
@@ -109,6 +110,8 @@ def build_index(json_path: str, index_dir: str = "indexdir") -> None:
     writer = AsyncWriter(ix)
     try:
         for doc in iter_products(json_path):
+            # Debug print for price and type
+            print(f"Indexing {doc['id']} with price={doc['price']} ({type(doc['price'])})")
             writer.update_document(**doc)
         writer.commit()
         print(f"Indexed products from {json_path} into {index_dir}")
