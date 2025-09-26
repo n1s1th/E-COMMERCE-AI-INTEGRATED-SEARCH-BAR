@@ -1,1 +1,1 @@
-# intentionally empty to allow `python -m search.indexer`.
+# empty file to mark 'search' as a package

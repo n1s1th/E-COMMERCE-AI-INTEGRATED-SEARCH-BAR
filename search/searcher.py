@@ -3,7 +3,7 @@ import re
 from typing import Dict, List, Optional, Tuple, Any
 from whoosh import index
 from whoosh.qparser import MultifieldParser, OrGroup, FuzzyTermPlugin, WildcardPlugin
-from whoosh.query import And, Or, Term, Every, NumericRange, Prefix
+from whoosh.query import And, Or, Term, NumericRange, Prefix
 from whoosh.scoring import BM25F
 
 DEFAULT_FIELDS = ["product_name", "category", "attributes", "full_text"]
@@ -13,12 +13,9 @@ class ProductSearch:
         if not os.path.exists(index_dir) or not os.listdir(index_dir):
             raise RuntimeError(f"Index not found in {index_dir}. Build it with: python -m search.indexer --data data/products.json")
         self.ix = index.open_dir(index_dir)
-
-        # Relevance: boost product_name > attributes > full_text
         self.weighting = BM25F(field_B={'product_name': 1.0, 'attributes': 1.0, 'full_text': 1.0},
                                K1=1.5,
                                B={'product_name': 0.75, 'attributes': 0.75, 'full_text': 0.75})
-        self.field_boosts = {'product_name': 3.0, 'attributes': 1.5, 'full_text': 1.0}
 
     def _build_parser(self):
         parser = MultifieldParser(DEFAULT_FIELDS, schema=self.ix.schema, group=OrGroup.factory(0.9))
@@ -62,21 +59,15 @@ class ProductSearch:
         qp = self._build_parser()
         qstring = self._apply_fuzzy(query, maxdist=1) if fuzzy else query
         q = qp.parse(qstring)
-
         filter_q = self._build_filter(filters or {})
         offset = (page - 1) * per_page
-
         with self.ix.searcher(weighting=self.weighting) as s:
-            # Apply field boosts via BM25F weighting overrides for this searcher if needed
             results = s.search(q, limit=offset + per_page, filter=filter_q)
             total = len(results)
             hits = results[offset: offset + per_page]
-
             items: List[Dict[str, Any]] = []
             for hit in hits:
-                # Highlight on product_name first, fallback to attributes/full_text
                 hl = hit.highlights("product_name") or hit.highlights("attributes")
-                # full_text is not stored, so highlight fallback limited
                 items.append({
                     "id": hit["id"],
                     "product_name": hit["product_name"],
@@ -96,7 +87,6 @@ class ProductSearch:
         if not prefix:
             return []
         with self.ix.searcher() as s:
-            # Prefer prefix over wildcard for efficiency; autocomplete field uses ngrams
             q = Prefix("autocomplete", prefix.lower())
             results = s.search(q, limit=limit)
             suggestions = []

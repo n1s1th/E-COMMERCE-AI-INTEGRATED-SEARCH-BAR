@@ -26,9 +26,9 @@ def build_schema() -> Schema:
     )
 
 def flatten_attributes(attributes: Dict[str, Any]) -> str:
+    tokens = []
     if not attributes:
         return ""
-    tokens = []
     for k, v in attributes.items():
         if isinstance(v, list):
             for item in v:
@@ -55,14 +55,11 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
         variant_id = variant.get("variant_id") or ""
         price_obj = variant.get("price") or {}
         raw_price = price_obj.get("final_price", 0.0)
-        # Defensive conversion
-        if raw_price is None:
+        # Defensive conversion: always returns a float
+        try:
+            price = float(raw_price)
+        except (TypeError, ValueError):
             price = 0.0
-        else:
-            try:
-                price = float(str(raw_price).strip())
-            except (ValueError, TypeError):
-                price = 0.0
 
         sizes_list = variant.get("sizes") or []
         sizes_csv = ",".join([str(s).lower() for s in sizes_list])
@@ -93,7 +90,7 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
             image=image or "",
             autocomplete=autocomplete_source,
         )
-        
+
 def iter_products(json_path: str) -> Iterable[Dict[str, Any]]:
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -102,21 +99,22 @@ def iter_products(json_path: str) -> Iterable[Dict[str, Any]]:
         yield from flatten_record(raw)
 
 def build_index(json_path: str, index_dir: str = "indexdir") -> None:
-    os.makedirs(index_dir, exist_ok=True)
-    if not os.listdir(index_dir):
-        ix = create_in(index_dir, build_schema())
+    # Always clean indexdir before building
+    if os.path.exists(index_dir):
+        for f in os.listdir(index_dir):
+            os.remove(os.path.join(index_dir, f))
     else:
-        ix = index.open_dir(index_dir)
+        os.makedirs(index_dir, exist_ok=True)
+    ix = create_in(index_dir, build_schema())
     writer = AsyncWriter(ix)
     try:
         for doc in iter_products(json_path):
-            # Debug print for price and type
-            print(f"Indexing {doc['id']} with price={doc['price']} ({type(doc['price'])})")
             writer.update_document(**doc)
         writer.commit()
         print(f"Indexed products from {json_path} into {index_dir}")
-    except Exception:
+    except Exception as e:
         writer.cancel()
+        print("Indexing Error:", e)
         raise
 
 if __name__ == "__main__":
