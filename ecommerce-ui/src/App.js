@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import SearchBar from "./SearchBar";
+import ProductList from "./ProductList";
 
 function App() {
+  const [products, setProducts] = useState([]);
+  const [loading, setLoading] = useState(false);
+
+  const handleSearch = async (query) => {
+    setLoading(true);
+    const resp = await fetch(`http://localhost:8000/search?q=${encodeURIComponent(query)}`);
+    const data = await resp.json();
+    setProducts(data.items || []);
+    setLoading(false);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ maxWidth: 600, margin: "2rem auto", fontFamily: "Arial, sans-serif" }}>
+      <h1>E-commerce AI Search</h1>
+      <SearchBar onSearch={handleSearch} />
+      {loading ? <div>Loading...</div> : <ProductList items={products} />}
     </div>
   );
 }

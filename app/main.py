@@ -1,9 +1,20 @@
 from fastapi import FastAPI, Query
+from fastapi.middleware.cors import CORSMiddleware
 from typing import List, Optional
 from pydantic import BaseModel
 from search.searcher import ProductSearch
 
 app = FastAPI(title="E-commerce Search API", version="1.0")
+
+# --- CORS CONFIGURATION ---
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  # Frontend origin (React dev server)
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+# --------------------------
 
 search_engine = ProductSearch(index_dir="indexdir")
 
