@@ -16,7 +16,7 @@ def build_schema() -> Schema:
         product_type=KEYWORD(stored=True, lowercase=True, commas=True),
         attributes=TEXT(stored=True, analyzer=StemmingAnalyzer()),
         full_text=TEXT(stored=False, analyzer=StemmingAnalyzer()),
-        price=NUMERIC(stored=True, sortable=True, numtype=float),
+        price=NUMERIC(stored=True, sortable=True, numtype=int),   # <-- int, not float!
         sizes=KEYWORD(stored=True, lowercase=True, commas=True),
         color=KEYWORD(stored=True, lowercase=True, commas=True),
         in_stock=BOOLEAN(stored=True),
@@ -57,9 +57,9 @@ def flatten_record(raw: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
         raw_price = price_obj.get("final_price", 0.0)
         # Defensive conversion: always returns a float
         try:
-            price = float(raw_price)
+            price = int(float(raw_price))
         except (TypeError, ValueError):
-            price = 0.0
+            price = 0
 
         sizes_list = variant.get("sizes") or []
         sizes_csv = ",".join([str(s).lower() for s in sizes_list])
