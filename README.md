@@ -18,7 +18,7 @@ E-COMMERCE-AI-INTEGRATED-SEARCH-BAR/
 ├── data/
 │   └── products.json        # Your product catalog data
 ├── requirements.txt         # Python backend dependencies
-├── ui/                      # React frontend (Create React App)
+├── ecommerce-ui/            # React frontend (Create React App)
 │   ├── public/
 │   ├── src/
 │   │   ├── App.js
