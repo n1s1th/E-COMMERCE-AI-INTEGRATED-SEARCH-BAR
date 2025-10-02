@@ -13,9 +13,11 @@ class ProductSearch:
         if not os.path.exists(index_dir) or not os.listdir(index_dir):
             raise RuntimeError(f"Index not found in {index_dir}. Build it with: python -m search.indexer --data data/products.json")
         self.ix = index.open_dir(index_dir)
-        self.weighting = BM25F(field_B={'product_name': 1.0, 'attributes': 1.0, 'full_text': 1.0},
-                               K1=1.5,
-                               B={'product_name': 0.75, 'attributes': 0.75, 'full_text': 0.75})
+        self.weighting = BM25F(
+            field_B={'product_name': 1.0, 'attributes': 1.0, 'full_text': 1.0},
+            K1=1.5,
+            B=0.75
+        )
 
     def _build_parser(self):
         parser = MultifieldParser(DEFAULT_FIELDS, schema=self.ix.schema, group=OrGroup.factory(0.9))
