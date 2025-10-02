@@ -3,16 +3,29 @@
         "product_id": "0d794c26-6647-4140-80ea-4feba13d63c0",
         "product_name": "Iveena Tube Maxi Dress",
         "brand_slug": "bayleee",
-        "gender": ["women"],
+        "gender": [
+            "women"
+        ],
         "category": "western-dresses",
         "product_type": "mini",
         "attributes": {
-            "silhouette": ["slim", "straight"],
-            "fabric": ["polyester"],
-            "sleeves": ["sleeveless"],
+            "silhouette": [
+                "slim",
+                "straight"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
             "pattern": [],
-            "neckline": ["strapless"],
-            "details": ["pleated"]
+            "neckline": [
+                "strapless"
+            ],
+            "details": [
+                "pleated"
+            ]
         },
         "occasion": [],
         "style": [],
@@ -40,8 +53,12 @@
                 ],
                 "in_stock": true,
                 "pdp_url": "https://bayleee.com/product/bayleee-iveena-green-tube-maxi-dress/",
-                "full_text": "Iveena Green Tube Maxi Dress. Turn heads effortlessly in this chic emerald green strapless dress, designed to blend elegance with a hint of playful charm. With its flowy silhouette and bold slit, this dress is perfect for both romantic evenings and stylish day outings. DETAILS: Strapless straight neckline for a sleek, modern vibe. Fitted, structured top that flatters the upper body. Slightly cinched at the waist to enhance curves. Flowing maxi length with soft pleats for movement. High side slit for a bold, feminine touch. SIZE AND FIT: Studio model is wearing size XS/6 UK. Studio model measurements are: Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″. MATERIAL & CARE: Main Fabric – Polyester Non Stretch.",
-                "color": ["red", "green", "emerald"]
+                "full_text": "Iveena Green Tube Maxi Dress Turn heads effortlessly in this chic emerald green strapless dress, designed to blend elegance with a hint of playful charm. With its flowy silhouette and bold slit, this dress is perfect for both romantic evenings and stylish day outings. DETAILS : Strapless straight neckline for a sleek, modern vibe. Fitted, structured top that flatters the upper body. Slightly cinched at the waist to enhance curves. Flowing maxi length with soft pleats for movement. High side slit for a bold, feminine touch. SIZE AND FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester Non Stretch",
+                "color": [
+                    "red",
+                    "green",
+                    "emerald"
+                ]
             }
         ],
         "created_at": "2025-09-15T02:50:03.571660",
@@ -49,90 +66,4263 @@
         "is_active": true
     },
     {
-        "product_id": "7a1e8b25-2e66-41aa-9f3f-6f6e6e7c8d11",
-        "product_name": "Aurora Satin Evening Gown",
-        "brand_slug": "glamourista",
-        "gender": ["women"],
-        "category": "evening-gowns",
+        "product_id": "501e469b-6eb6-4d86-a0fc-067a8a7d4ff6",
+        "product_name": "Teila Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
         "product_type": "maxi",
         "attributes": {
-            "silhouette": ["fit-and-flare"],
-            "fabric": ["satin"],
-            "sleeves": ["cap-sleeve"],
-            "pattern": ["solid"],
-            "neckline": ["v-neck"],
-            "details": ["ruched", "side slit"]
+            "silhouette": [
+                "a-line",
+                "slim",
+                "oversized"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [
+                "floral"
+            ],
+            "neckline": [
+                "v-neck"
+            ],
+            "details": [
+                "ruched"
+            ]
         },
-        "occasion": ["party", "wedding"],
-        "style": ["classic"],
+        "occasion": [],
+        "style": [],
         "variants": [
             {
-                "variant_id": "c1b2d3e4-f5a6-4b7c-9d8e-1f2a3b4c5d6e",
+                "variant_id": "53550ae5-70d3-468f-86fe-09f4470c1be2",
                 "price": {
-                    "marked_price": 15990,
-                    "discount_percent": 10,
-                    "final_price": 14391
+                    "marked_price": 7990,
+                    "discount_percent": null,
+                    "final_price": 7990
                 },
                 "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-4-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-1-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-2-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-3-2.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-teila-maxi-dress/",
+                "full_text": "Teila Maxi Dress Float into effortless elegance with this breezy olive-green maxi dress. Its flowy silhouette and earthy tones make it perfect for sunny strolls, beachside dinners, or a chic casual day out. The playful floral print adds a touch of nature’s charm, making you feel both relaxed and radiant. DETAILS : Deep V-neck. Thin adjustable spaghetti straps. Fitted with a shirred elastic waistband for comfort and definition. Full-length, flowy A-line maxi dress. SIZE AND FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Cotton Non stretch",
+                "color": [
+                    "red",
+                    "green",
+                    "olive"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.583827",
+        "updated_at": "2025-09-15T02:50:03.583837",
+        "is_active": true
+    },
+    {
+        "product_id": "38fb3a5d-cbe4-41a0-a957-20ae5f25c8bb",
+        "product_name": "Tala Printed Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "slim",
+                "oversized"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [
+                "floral",
+                "printed"
+            ],
+            "neckline": [
+                "sweetheart"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "4a53c3f2-93e5-4597-bd93-7c462eafe200",
+                "price": {
+                    "marked_price": 7990,
+                    "discount_percent": null,
+                    "final_price": 7990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-20-5.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-17-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-18-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-19-4.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-tala-printed-maxi-dress/",
+                "full_text": "Tala Printed Maxi Dress Breeze through sunny days in this dreamy sage green floral maxi dress. With its delicate straps and flowy silhouette, this dress is the perfect mix of effortless charm and feminine grace — ideal for brunches, picnics, or a casual stroll by the beach. DETAILS : Sweetheart neckline with soft pleating for a romantic touch. Thin spaghetti straps for a delicate, airy feel. Fitted bust with subtle gathers that enhance shape. Slightly cinched at the waist for a flattering silhouette. Maxi length with a relaxed, flowy fall for all-day comfort. SIZE AND FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.11″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester Non stretch",
+                "color": [
+                    "green",
+                    "sage"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.589407",
+        "updated_at": "2025-09-15T02:50:03.589422",
+        "is_active": true
+    },
+    {
+        "product_id": "edf9b7a3-3f31-4836-95e8-a7687f4e92fb",
+        "product_name": "Hadas Printed Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "maxi",
+        "attributes": {
+            "silhouette": [
+                "oversized"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [
+                "floral",
+                "printed"
+            ],
+            "neckline": [],
+            "details": [
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "40588e4c-aace-4b0e-9b0a-59859ed0079d",
+                "price": {
+                    "marked_price": 8990,
+                    "discount_percent": null,
+                    "final_price": 8990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-4-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-1-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-2-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-3-1.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-hadas-printed-maxi-dress/",
+                "full_text": "Hadas Printed Maxi Dress Breezy, romantic, and effortlessly chic — this dreamy blue maxi dress is made for sunny days and soft evenings. With its delicate floral print and flowy silhouette, it’s your perfect go-to for a relaxed yet elegant look. DETAILS : Adjustable spaghetti straps. Drawstring tie at the bust with subtle ruching detail. Elasticated waist for comfort and a flattering shape. Flowy full-length skirt for an airy, graceful movement. SIZE AND FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Cotton Non stretch",
+                "color": [
+                    "blue"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.594776",
+        "updated_at": "2025-09-15T02:50:03.594788",
+        "is_active": true
+    },
+    {
+        "product_id": "3d0a00da-1d59-4235-9af0-c47e7f9e6ba3",
+        "product_name": "Olivio Printed Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "flared",
+                "slim"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "puff-sleeves"
+            ],
+            "pattern": [
+                "floral",
+                "printed"
+            ],
+            "neckline": [
+                "square-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "bfd28c44-f11d-4042-987c-a67b8829687f",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-8-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-6-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-5-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-7-1.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-olivio-printed-mini-dress/",
+                "full_text": "Olivio Printed Mini Dress Playful, feminine, and oh-so-chic — this puff-sleeve mini dress is your go-to for brunch dates, garden parties, or any sunny-day outing. The dreamy floral print paired with a flattering silhouette makes it a summer essential. DETAILS : Square neckline for a classic, flattering touch. Puff sleeves with elastic cuffs for a romantic look. Fitted waistline that flows into a flared mini skirt. Above-the-knee length for a playful and youthful vibe. SIZE AND FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Cotton Non Stretch",
+                "color": [
+                    "red"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.598467",
+        "updated_at": "2025-09-15T02:50:03.598472",
+        "is_active": true
+    },
+    {
+        "product_id": "95cd9a56-d464-43b8-82aa-a646c480f1c9",
+        "product_name": "Imara Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "maxi",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "puff-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "v-neck"
+            ],
+            "details": [
+                "ruched",
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "d1ec1e35-f87b-45e7-a325-c3209544160c",
+                "price": {
+                    "marked_price": 8990,
+                    "discount_percent": null,
+                    "final_price": 8990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-4-3.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-1-3.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-2-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-3-3.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-imara-mud-orange-maxi-dress/",
+                "full_text": "V-neckline for a chic, elongating effect. Soft puffed half sleeves with gentle gathers for a feminine touch. Smocked elastic waistband. Flowy A-line maxi style with tiered hem. Maxi length. Step into effortless charm with this terracotta dream dress. Flowing gracefully with every step, it brings together comfort and elegance, making it perfect for sunny strolls, brunch dates, or a chic evening out. Paired with its earthy tone, it radiates a warm, timeless vibe. Imara Mud Orange Maxi Dress cotton",
+                "color": [
+                    "red",
+                    "orange"
+                ]
+            },
+            {
+                "variant_id": "60451ad6-ccf5-4865-8ecb-728c63d97d2f",
+                "price": {
+                    "marked_price": 8990,
+                    "discount_percent": null,
+                    "final_price": 8990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-4-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-1-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-2-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-3-2.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-imara-yellow-maxi-dress/",
+                "full_text": "V-neck Smocked waist Side slant pockets Maxi silhouette Bask in golden hour vibes with this dreamy lemon-yellow maxi dress. Featuring a flattering V-neckline, soft puff sleeves, and a delicately ruched waist, it flows into a tiered silhouette that twirls with every step. Lightweight, breezy, and effortlessly romantic — it’s the perfect piece for garden strolls, brunch dates, or sun-soaked adventures. Pair it with a straw bag and sandals for that effortlessly chic summer look. Imara Yellow Maxi Dress cotton",
+                "color": [
+                    "red",
+                    "yellow",
+                    "lemon",
+                    "gold"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.602134",
+        "updated_at": "2025-09-15T02:50:03.602140",
+        "is_active": true
+    },
+    {
+        "product_id": "80528854-f3fe-47ad-949f-4019b839171e",
+        "product_name": "Halzie Sleeveless Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "shirts & blouses",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "3471849a-05d9-431c-9abd-ecc80cf271d2",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-24-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-21.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-22.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-23-1.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-halzie-sleeveless-mini-dress/",
+                "full_text": "Sleeveless cut for a sleek, minimal silhouette. Front button-down detail for a classic, tailored look. Mini length that keeps it playful and chic. Back zipper closure. Crisp, fresh, and effortlessly chic — this little white dress is a sunshine-ready classic. Perfect for brunch dates, summer strolls, or a polished day-to-night look, it’s the definition of timeless elegance with a modern twist. Halzie Sleeveless Mini Dress twill",
+                "color": [
+                    "white",
+                    "red"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.605876",
+        "updated_at": "2025-09-15T02:50:03.605884",
+        "is_active": true
+    },
+    {
+        "product_id": "db22c68b-df7d-4be6-b4d3-67c35fdaf604",
+        "product_name": "Aleyna Smocked Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "linen"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [
+                "sweetheart"
+            ],
+            "details": [
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "c1f26802-7314-4fe6-8fe8-67431c4c07ff",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-8.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-5.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-6.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-7.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-aleyna-smocked-mini-dress/",
+                "full_text": "Sweetheart neckline with soft bust detailing. Delicate adjustable spaghetti straps. Smocked waist for a flattering, flexible fit. Tiered mini skirt with gentle flare for movement. Above-knee playful mini. Turn heads effortlessly in this fiery little mini!  With its playful charm and flattering fit, this dress is perfect for sunny days, brunch dates, or a fun night out. Easy, breezy, and oh-so-chic — it’s your go-to for instant confidence. Aleyna Smocked Mini Dress linen",
+                "color": [
+                    "red",
+                    "tan"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.609088",
+        "updated_at": "2025-09-15T02:50:03.609100",
+        "is_active": true
+    },
+    {
+        "product_id": "397b13bd-c4cb-4019-8a3d-24d0697fcf72",
+        "product_name": "Cove Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "short-sleeves",
+                "puff-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "ruched"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "bcb682a1-9be5-470f-82e2-43402913d61a",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-20.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-17.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-18.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-19.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-cove-mud-orange-mini-dress/",
+                "full_text": "Deep V-neckline for a flattering, elongating effect. Wrap-style front with side tie detail for an adjustable fit. Puffed half sleeves with gathered cuffs for a feminine touch. Mini length for a chic, modern silhouette. Back zipper closure. Soft, feminine, and oh-so-flattering — this wrap-style mini dress is your perfect pick for brunch dates, evening strolls, or a chic night out. It’s effortlessly elegant while keeping things fun and flirty. Cove Mud Orange Mini Dress polyester",
+                "color": [
+                    "red",
+                    "orange"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.612065",
+        "updated_at": "2025-09-15T02:50:03.612071",
+        "is_active": true
+    },
+    {
+        "product_id": "a61fb35d-1fa7-47c9-ae76-3f2ca45b67fe",
+        "product_name": "Luana Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "puff-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "square-neck"
+            ],
+            "details": [
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "6a46b79c-387b-41aa-820e-44c857e0384d",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-11-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-8-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-9-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-10-1.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-luana-mini-dress/",
+                "full_text": "Square neckline. Short puff sleeves. Subtle stitched paneling. Elasticated smocked waist. Mini length. Back invisible zipper. Sweet, playful, and effortlessly chic — this pastel pink mini dress is made for days when you want to look cute without even trying. With its puff sleeves and flowy silhouette, it’s the perfect mix of girly charm and modern elegance. Pair it with strappy heels or sandals and a cute clutch for a fresh, flirty vibe. Luana Mini Dress cotton",
+                "color": [
+                    "pink"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.614852",
+        "updated_at": "2025-09-15T02:50:03.614866",
+        "is_active": true
+    },
+    {
+        "product_id": "1791d6da-33da-4ef8-adff-7bc87914a8dd",
+        "product_name": "Heavenly Hues Tube Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "slim"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "sleeveless",
+                "long-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "strapless"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "aa67cabb-2eee-4d17-8fdd-848c0bd0f7f0",
+                "price": {
+                    "marked_price": 7990,
+                    "discount_percent": null,
+                    "final_price": 7990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-4.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/08/WEB-3.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-heavenly-hues-tube-maxi-dress/",
+                "full_text": "Strapless tube neckline. Fitted bodice. Slightly curved seam detailing at the waist. Long flowy maxi skirt with tiered panel. Step into effortless charm with this dreamy pastel pink tube dress — the perfect mix of elegance and ease. With its flowy silhouette and soft, feminine vibe, it’s your go-to outfit for brunch dates, garden strolls, or a sweet evening out. Pair it with a woven bag and sandals for that chic, natural finish. Heavenly Hues Tube Maxi Dress cotton",
+                "color": [
+                    "red",
+                    "pink"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.617515",
+        "updated_at": "2025-09-15T02:50:03.617520",
+        "is_active": true
+    },
+    {
+        "product_id": "eb0f4429-65db-47fc-b6c5-5e316f6394fe",
+        "product_name": "Dvora Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "shirts & blouses",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [
+                "sweetheart"
+            ],
+            "details": [
+                "ruffled",
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "2dd6f7b6-64bb-4da4-8fae-668c7c5a6023",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-22-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-19-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-20-3.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-21-2.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-dvora-mini-dress/",
+                "full_text": "Sweetheart-inspired neckline with thin spaghetti straps. Button-down front detail. Smocked elasticated back for comfort and flexibility. Tiered ruffle mini skirt that gives movement and flounce. Flirty, fun, and oh-so-sweet — this strappy pink mini dress is made to twirl through sunshine days. With its dainty button-down front, tiered ruffles, and a comfy smocked back, it’s the perfect blend of playful charm and effortless ease. Pair it with a woven bag and sandals for that dreamy summer look. Dvora Mini Dress cotton",
+                "color": [
+                    "red",
+                    "pink"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.622295",
+        "updated_at": "2025-09-15T02:50:03.622309",
+        "is_active": true
+    },
+    {
+        "product_id": "0e237613-2f79-42ad-a025-7e3394402293",
+        "product_name": "Aalia Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "shirts & blouses",
+        "attributes": {
+            "silhouette": [
+                "a-line",
+                "slim",
+                "straight"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "pleated"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "39301a2d-44cf-4482-92b7-1e880b7a31ab",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-26-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-24-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-23-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-25-2.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-aalia-mini-dress/",
+                "full_text": "Spaghetti straps & straight neckline Pintuck pleats & fabric buttons on bodice Fitted waist with A-line mini skirt Sweet, sunny, and full of flirty flair — this mustard mini dress is a summer daydream! Designed with delicate spaghetti straps and a fitted bodice featuring playful pintuck pleats and a button-down detail, it cinches at the waist before flaring into an A-line silhouette. The breezy hem adds a touch of movement, making it perfect for strolls, seaside brunches, or spontaneous twirls. Pair with espadrilles and a woven clutch for that effortlessly radiant look! Aalia Mini Dress cotton mix",
+                "color": [
+                    "mustard",
+                    "tan"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.627961",
+        "updated_at": "2025-09-15T02:50:03.627974",
+        "is_active": true
+    },
+    {
+        "product_id": "137be301-7829-4903-927d-8227a290aa8c",
+        "product_name": "Aelara Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "shirts & blouses",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "long-sleeves"
+            ],
+            "pattern": [
+                "floral"
+            ],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "e55f6aa4-ce33-4745-9cb0-4a74796cea6e",
+                "price": {
+                    "marked_price": 7290,
+                    "discount_percent": null,
+                    "final_price": 7290
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-8.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-6.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-5.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-7.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-aelara-mini-dress/",
+                "full_text": "Shirt color with cross over bodice Long sleeves with cuff Wrap detailed skirt Invisible zipper at the back Step into effortless elegance with this black and white floral wrap mini dress, perfect for sunny days and sultry nights. The bold botanical print gives off vacation vibes while the tailored wrap silhouette hugs in all the right places, enhancing your natural curves. Aelara Mini Dress cotton",
+                "color": [
+                    "black",
+                    "white",
+                    "red",
+                    "tan"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.636793",
+        "updated_at": "2025-09-15T02:50:03.636803",
+        "is_active": true
+    },
+    {
+        "product_id": "f07ef3bf-c349-404c-aaf5-a1c9017ff60c",
+        "product_name": "Kalisa Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "slim",
+                "oversized"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "cc593177-cdae-4cd1-9cfb-9b6ed00c0199",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-43.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-41-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-40-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-42-1.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-kalisa-maxi-dress/",
+                "full_text": "Neckline with front tie Adjustable spaghetti straps Fitted bodice, flowy skirt Maxi length A timeless summer essential made for sun-drenched days and breezy evenings. Effortlessly feminine and easy to style, this piece brings a fresh, relaxed charm to your warm-weather wardrobe. Perfect for beach walks, brunches, and everything in between. Kalisa Maxi Dress polyester",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.639059",
+        "updated_at": "2025-09-15T02:50:03.639067",
+        "is_active": true
+    },
+    {
+        "product_id": "517b68a3-6839-4c9a-965e-51d2d909ba24",
+        "product_name": "Auria Tube Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "bodycon",
+                "straight"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [
+                "floral"
+            ],
+            "neckline": [
+                "strapless"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "ca6fa3ec-5840-4b76-9df8-e9c8a1e52384",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-35.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-33.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-32.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-34.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-auria-tube-mini-dress/",
+                "full_text": "Strapless straight neckline Invisible zipper at the back Princess cut from the waist Style elegantly in black & white floral print  floral print mini dress designed with a strapless neckline and bodycon silhouette to flaunt your curves. Auria Tube Mini Dress cotton",
+                "color": [
+                    "black",
+                    "white"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.641347",
+        "updated_at": "2025-09-15T02:50:03.641354",
+        "is_active": true
+    },
+    {
+        "product_id": "8dc92220-38f8-439b-8b63-4d12a079a7de",
+        "product_name": "Zylia Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "balloon-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "v-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "d04ce6cc-0eb2-4afb-8157-fd2fec865ea5",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-12-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-9-2.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-10-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-11-1.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-zylia-mini-dress/",
+                "full_text": "V-neck wrap bodice Balloon sleeves Waist cut-out detail Body-hugging mini skirt Back zipper Meet your new wardrobe crush — this dreamy white mini dress is the definition of effortless elegance. With its clean lines, soft fabric, and subtle cut-out detailing, it’s designed for the fashionista who loves to keep it classy and sassy. Zylia Mini Dress polyester",
+                "color": [
+                    "white"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.643269",
+        "updated_at": "2025-09-15T02:50:03.643275",
+        "is_active": true
+    },
+    {
+        "product_id": "2d7701b2-6273-45f6-9bab-c2b0bd873f3a",
+        "product_name": "Dasha Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "flared",
+                "slim"
+            ],
+            "fabric": [
+                "linen"
+            ],
+            "sleeves": [
+                "puff-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "bdc93d1e-d9af-4e71-a45c-bff5331ae230",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-31-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-29-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-28-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-30-1.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-dasha-mini-dress/",
+                "full_text": "Deep V-neckline Open back with tie detail Fitted waist, flared skirt Mini length Step into elegance with this beautiful forest green mini dress. Designed with a flattering V-neckline and statement puff sleeves, it features a fitted waistline that flows into a soft, flared skirt for a playful yet chic look. Perfect for brunch, dates, or any day you want to feel your best. Dasha Mini Dress linen",
+                "color": [
+                    "red",
+                    "green"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.645598",
+        "updated_at": "2025-09-15T02:50:03.645603",
+        "is_active": true
+    },
+    {
+        "product_id": "8169cd29-b34f-47f1-b02b-e633bf12d049",
+        "product_name": "Seana Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "maxi",
+        "attributes": {
+            "silhouette": [
+                "slim"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "lace"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "6993b062-1082-4bb2-b7b3-167302623f65",
+                "price": {
+                    "marked_price": 7490,
+                    "discount_percent": null,
+                    "final_price": 7490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-27-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-25-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-24-1.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-26-1.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-seana-maxi-dress/",
+                "full_text": "Fitted bodice Ladder lace detail at the waist Deep v neckline with collar Invisible back zipper Short sleeve his short-sleeve maxi is a charming blend of simplicity and grace. Crafted in a lush green hue, it features a light texture that adds a tactile dimension to the garment. Perfect for various occasions. Seana Maxi Dress polyester",
+                "color": [
+                    "green"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.647736",
+        "updated_at": "2025-09-15T02:50:03.647742",
+        "is_active": true
+    },
+    {
+        "product_id": "b77288a9-d546-46a6-8a26-de590dead1e2",
+        "product_name": "Nevara Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "slim"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "puff-sleeves",
+                "long-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "97041107-376f-4cda-9228-14dd94dd0c94",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-39.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-37.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-36.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/07/WEB-38.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-nevara-mini-dress/",
+                "full_text": "Long  length puff sleeves with elasticated cuffs High neckline with front button detailing Fitted waist for a flattering shape Hidden back zipper Soft, sweet, and effortlessly polished—this mint mini textured dress brings fresh energy to your wardrobe. Whether it’s a brunch date or a breezy summer stroll, this look promises compliments at every turn. Nevara Mini Dress polyester",
+                "color": [
+                    "red",
+                    "mint",
+                    "lime"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.650111",
+        "updated_at": "2025-09-15T02:50:03.650123",
+        "is_active": true
+    },
+    {
+        "product_id": "e200dd5a-6756-4fba-837d-10a5ccb0accd",
+        "product_name": "Avani Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "maxi",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "sweetheart",
+                "strapless"
+            ],
+            "details": [
+                "ruched"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "c9256020-d401-4094-8e94-f9fb8ca8cad9",
+                "price": {
+                    "marked_price": 7490,
+                    "discount_percent": null,
+                    "final_price": 7490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-34-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-32-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-31-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-33-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-avani-black-maxi-dress/",
+                "full_text": "Sweetheart with ruched detailing Fitted bodice with a flowy, pleated skirt Invisible back zipper Front cover button detail Turn heads with effortless elegance! This strapless black maxi dress flows with grace, giving you a timeless, chic look for any occasion. Avani Black Maxi Dress polyester",
+                "color": [
+                    "black"
+                ]
+            },
+            {
+                "variant_id": "5ac79e6d-c6b2-48ea-ac72-084414c419dc",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-12-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-10-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-11-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-09-1-1365x2048.jpg"
+                ],
+                "in_stock": false,
+                "pdp_url": "https://bayleee.com/product/bayleee-avani-maroon-maxi-dress/",
+                "full_text": "Avani Maroon Maxi Dress polyester Feel effortlessly elegant in this enchanting red strapless maxi dress, The vibrant red hue adds a touch of romance, perfect for making unforgettable memories at summer soirées, evening events, or even a sunset beach stroll. Slip on some sparkling earrings and your favorite heels to complete the look. Product Details: Strapless sweetheart with delicate ruched detailing Box pleat skirt Back zipper Ankle length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Bust – 33″ Height – 5.8″ Bust – 33″ Waist – 26″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "red",
+                    "maroon"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.654487",
+        "updated_at": "2025-09-15T02:50:03.654501",
+        "is_active": true
+    },
+    {
+        "product_id": "2be710f2-a3d2-46e8-af51-47b27032cf86",
+        "product_name": "Evara Tube Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "strapless"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "49165555-7447-4c04-8755-3d4760234a98",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-4-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-3-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-evara-tube-mini-dress/",
+                "full_text": "Strapless neckline Structured bodice for a snug, flattering fit Mini length Invisible back zipper Step into a summer daydream with our Sun-Kissed Bloom Dress — a playful blend of bold florals and breezy charm. Designed to turn heads, this strapless mini dress wraps you in a garden of vivid pinks, corals, and whites that radiate sunshine energy. Evara Tube Mini Dress twill",
+                "color": [
+                    "white",
+                    "red",
+                    "coral",
+                    "pink"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.658105",
+        "updated_at": "2025-09-15T02:50:03.658122",
+        "is_active": true
+    },
+    {
+        "product_id": "f93d418b-033c-423b-a77d-3b59d19f82a8",
+        "product_name": "Zandria Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "ruffled",
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "820ddf0c-1081-475f-9735-67be67a28b38",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-18-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-16-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-15-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-17-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-zandria-white-mini-dress/",
+                "full_text": "All-over smocking for texture and fit Puff sleeves with elastic edges Boat neckline Mini length Turn heads in this effortlessly chic mini dress! With its sweet ruching details and a figure-hugging fit, this little white number is perfect for brunch dates, beach parties, or a casual glam day out. Zandria White Mini Dress polyester",
+                "color": [
+                    "white"
+                ]
+            },
+            {
+                "variant_id": "e9dc9156-e125-4359-8a23-3f5151a97f0e",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-28-3.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-25-3.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-26-3.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-27-3.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-zandria-black-mini-dres/",
+                "full_text": "Crafted with a smocked texture for a sleek Body-hugging fit. Cap sleeves. Subtle ruffled hemline. Back button closure. Effortlessly chic and endlessly versatile — this little black dress is your go-to for both casual brunches and elegant evenings. With its figure-flattering silhouette and playful vibe, it’s the perfect mix of sophistication and charm. Zandria Black Mini Dres polyester",
+                "color": [
+                    "black"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.660630",
+        "updated_at": "2025-09-15T02:50:03.660637",
+        "is_active": true
+    },
+    {
+        "product_id": "331a6155-191c-4a7b-b200-3a387b5e84d7",
+        "product_name": "Sanya Pin Tuck Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "slim"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "puff-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "square-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "d466fb25-d624-4390-8bc0-13d1e9a76583",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-22-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-19-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-20-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-21-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-sanya-pin-tuck-mini-dress/",
+                "full_text": "Square neckline Puff sleeves with elastic cuffs Fitted bodice with seam detailing Cinched waist with elastic band Box pleat detail Bold, bright, and beautiful! This coral-red dress brings sunshine to your wardrobe with its playful puff sleeves and flattering fit. Perfect for a sunny stroll or a spontaneous day out! Sanya Pin Tuck Mini Dress cotton",
+                "color": [
+                    "red",
+                    "tan",
+                    "coral"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.662505",
+        "updated_at": "2025-09-15T02:50:03.662510",
+        "is_active": true
+    },
+    {
+        "product_id": "9b753165-8791-4463-9f81-880196ee3e1c",
+        "product_name": "Azara Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap",
+                "oversized"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [
+                "stripes"
+            ],
+            "neckline": [
+                "v-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "6cc6ae0c-bdb8-4620-a631-b2ebe0f64e98",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-47-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-44-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-46-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-45-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-azara-mini-dress/",
+                "full_text": "V-neck wrap-style front Wide kimono sleeves for a relaxed, airy fit Body-hugging skirt with a figure-flattering silhouette Back zipper Meet your new favorite day-out dress – this beige striped mini is made for sunshine and sweet compliments! With its effortlessly flattering wrap-style bodice and comfy kimono sleeves, it’s the ultimate mix of casual-chic and breezy glam. Whether you’re strolling by the beach or sipping coffee in the city, this dress brings the perfect balance of charm and ease. Azara Mini Dress polyester",
+                "color": [
+                    "beige",
+                    "lime",
+                    "coffee"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.664408",
+        "updated_at": "2025-09-15T02:50:03.664414",
+        "is_active": true
+    },
+    {
+        "product_id": "08a5490d-b405-4798-b8cb-7d7e92fa1dc6",
+        "product_name": "Nixie Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "bodycon"
+            ],
+            "fabric": [
+                "knit"
+            ],
+            "sleeves": [
+                "long-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "650ac42f-3cb0-4cb6-ab86-2b22bd6f4d13",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8135-1365x2048.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8139-1365x2048.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/WEB-23-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-nixie-mini-dress/",
+                "full_text": "One-Shoulder Bodycon Mini Dress Long Sleeve Body-hugging silhouette Turn heads in this effortlessly chic white one-shoulder mini dress — perfect for sunny days and elegant evenings! Simple, sleek, and oh-so-flattering. Nixie Mini Dress knit",
+                "color": [
+                    "white"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.667524",
+        "updated_at": "2025-09-15T02:50:03.667532",
+        "is_active": true
+    },
+    {
+        "product_id": "d2dcbc23-8192-4cff-9d1e-daaae10a75b5",
+        "product_name": "Viola Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "maxi",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "linen"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [
+                "square-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "9e1d32d5-bf99-40aa-9f59-452d466acca8",
+                "price": {
+                    "marked_price": 7290,
+                    "discount_percent": null,
+                    "final_price": 7290
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8138-1365x2048.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8141-2-1365x2048.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8144-1365x2048.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8140-1366x2048.jpeg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-viola-yellow-maxi-dress/",
+                "full_text": "Maxi Dress with Front Slit Straight neckline Thin adjustable spaghetti straps Flowy A-line Sunshine in a dress! This vibrant yellow maxi dress brings pure joy with its flowy silhouette, dainty straps, and playful front slit. The perfect pick for your summer days or tropical getaways. Viola Yellow Maxi Dress linen",
+                "color": [
+                    "yellow"
+                ]
+            },
+            {
+                "variant_id": "b0b297a2-4b44-441c-940a-2df38bdf01f2",
+                "price": {
+                    "marked_price": 7290,
+                    "discount_percent": null,
+                    "final_price": 7290
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/IMG_7644-1365x2048.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/willz1121-copy-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/willz1139-copy-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/willz1141-copy-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-viola-black-maxi-dress/",
+                "full_text": "Viola Black Maxi Dress washed linen This elegant black maxi dress features a timeless square neckline and delicate spaghetti straps for a fresh and sophisticated look. Crafted from soft, breathable fabric, it’s perfect for those sunny days when you want to stay cool and chic. Product Details: Square neckline Adjustable spaghetti straps Side slit Back zipper Ankle length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ MATERIAL & CARE : Main Fabric – Washed linen No stretch",
+                "color": [
+                    "black"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.669316",
+        "updated_at": "2025-09-15T02:50:03.669321",
+        "is_active": true
+    },
+    {
+        "product_id": "34ea2c4f-d835-4784-89b3-ee6c8532178c",
+        "product_name": "Zola Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "midi",
+        "attributes": {
+            "silhouette": [
+                "bodycon"
+            ],
+            "fabric": [
+                "knit"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "23961b00-67ef-468a-a397-91f729323173",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8118-1024x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8109-1025x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8116-1025x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8117-1025x1536.jpeg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-zola-maxi-dress/",
+                "full_text": "Black with white piping Sleeveless, Bodycon, Midi length Stretch fabric, Back slit Sleek, chic, and comfy! This black bodycon midi dress features contrast white piping, a flattering fit, and a back slit for a flirty touch. Perfect for casual days or special nights out. Zola Maxi Dress knit",
+                "color": [
+                    "black",
+                    "white"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.671355",
+        "updated_at": "2025-09-15T02:50:03.671360",
+        "is_active": true
+    },
+    {
+        "product_id": "1b78f340-dcb3-4997-8a46-c8d3437d75e8",
+        "product_name": "Aelin Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "halter-neck",
+                "strapless"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "77dc5519-2eb2-476b-89eb-755a6f95c423",
+                "price": {
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8120-1025x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8119-1025x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8115-1025x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8114-1025x1536.jpeg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-aelin-mini-dress/",
+                "full_text": "Halter-neck wrap mini dress Deep V halter Strapless with open back detail Adjustable tie-belt for a cinched silhouette Contrasting black border trim Slip into this breezy monochrome mini dress that’s equal parts chic and playful. With its artistic brushstroke print and flattering halter neckline, it’s your perfect poolside or patio party partner. Aelin Mini Dress polyester",
+                "color": [
+                    "black"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.673038",
+        "updated_at": "2025-09-15T02:50:03.673043",
+        "is_active": true
+    },
+    {
+        "product_id": "a01ed59e-18c8-43ca-9517-1cbdf0e6b2c4",
+        "product_name": "Lowri Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "maxi",
+        "attributes": {
+            "silhouette": [
+                "flared",
+                "a-line",
+                "slim"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [
+                "sweetheart"
+            ],
+            "details": [
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "5b226616-fec4-4f7a-bedd-9a4397d06156",
+                "price": {
+                    "marked_price": 8990,
+                    "discount_percent": null,
+                    "final_price": 8990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8112-1024x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8110-1025x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8111-1025x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8108-1025x1536.jpeg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-lowri-maxi-dress/",
+                "full_text": "Sweetheart neckline Adjustable spaghetti straps Fitted bodice with flared A-line skirt Elasticated back panel for comfort and fit This breezy green maxi dress is made for sun-soaked days and golden hour twirls. Featuring delicate spaghetti straps, a flattering sweetheart neckline, and a playful leafy print, it flows effortlessly with every step. The back has an elasticated detail for a perfect, flexible fit—making it as comfortable as it is charming. Lowri Maxi Dress cotton",
+                "color": [
+                    "red",
+                    "green",
+                    "gold"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.675223",
+        "updated_at": "2025-09-15T02:50:03.675228",
+        "is_active": true
+    },
+    {
+        "product_id": "d6fa7219-db72-48bc-8b35-d4b2461966fb",
+        "product_name": "Ivara Tube Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "flared",
+                "slim",
+                "straight"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "strapless"
+            ],
+            "details": [
+                "ruched",
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "d098c67e-6c53-4c4f-b3a8-18bc7df368b9",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8105-1024x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8107-1025x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8106-1024x1536.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/06/IMG_8113-1024x1536.jpeg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-ivara-tube-mini-dress/",
+                "full_text": "Strapless, straight cut Fitted bodice with flared skirt Elasticated smocked back for comfort and ease Effortlessly flirty and fresh, this tube mini dress is the perfect go-to for sunny days and warm nights. Featuring a soft olive green base with an all-over white leafy print, it brings a playful yet polished vibe. The fitted bodice flatters your shape while the gathered skirt adds a breezy, twirl-worthy finish — ideal for everything from vacation strolls to weekend brunches. Ivara Tube Mini Dress cotton",
+                "color": [
+                    "white",
+                    "red",
+                    "green",
+                    "olive"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.677827",
+        "updated_at": "2025-09-15T02:50:03.677832",
+        "is_active": true
+    },
+    {
+        "product_id": "aacbbf25-63de-4aa3-9128-402d55f67a2d",
+        "product_name": "Atara Midi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "midi",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [
+                "v-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "0c3a2a47-9bda-483c-a714-735be8fb6e4f",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-24-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-21-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-23-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-22-2-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-atara-midi-dress/",
+                "full_text": "Atara Midi Dress polyester Exude pure elegance in this stunning white midi dress. The soft, lightweight fabric ensures you’ll feel as comfortable as you look beautiful. Whether you’re heading to a summer party, a beachside dinner, or a sun-soaked stroll, this dress is your ultimate warm weather companion. Product Details: V-neck wrap-style bodice Back zipper and tie detail Adjustable double strap Midi length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "white"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.680814",
+        "updated_at": "2025-09-15T02:50:03.680829",
+        "is_active": true
+    },
+    {
+        "product_id": "a52e37c6-605c-4b98-94f7-f0453c6d5511",
+        "product_name": "Dovie Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [],
+            "sleeves": [
+                "puff-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "collared"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "262ca960-3e4a-4ec2-8aa6-39a8a374dd05",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-04-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-02-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-01-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-03-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-dovie-black-mini-dress/",
+                "full_text": "Dovie Black Mini Dress cotton Bring on the charm with our Soft Breeze Mini Dress. Where classic elegance meets everyday comfort! This dreamy white dress features an effortlessly polished look. Whether you’re headed to a garden brunch, a sunny getaway, or just want to feel pretty on a regular day, this lightweight number has your name written all over it. Product Details: Collared with front keyhole and tie detail Short puff sleeves Cinched waist Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Cotton No stretch",
+                "color": [
+                    "black",
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "variant_id": "30109f50-264e-4d9b-ad71-6c032a890e17",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-21-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-18-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-20-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-19-1-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-dovie-white-mini-dress/",
+                "full_text": "Dovie White Mini Dress Bring on the charm with our Soft Breeze Mini Dress. Where classic elegance meets everyday comfort! This dreamy white dress features an effortlessly polished look. Whether you’re headed to a garden brunch, a sunny getaway, or just want to feel pretty on a regular day, this lightweight number has your name written all over it. Product Details: Collared with front keyhole and tie detail Short puff sleeves Cinched waist Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″",
+                "color": [
+                    "white",
+                    "red"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.687299",
+        "updated_at": "2025-09-15T02:50:03.687312",
+        "is_active": true
+    },
+    {
+        "product_id": "29eb9d0e-28c1-43b5-80d2-03664acef61a",
+        "product_name": "Inara Wrap Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [
+                "floral"
+            ],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "d20a96ce-2419-4bda-8a21-5f43d3f5bc12",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-18-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-19-1-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-17-1-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-20-1-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-inara-wrap-mini-dress/",
+                "full_text": "Inara Wrap Mini Dress polyester Get ready to charm in this effortlessly chic black and white floral wrap dress. Perfect for everything from brunch to beachside strolls. Pair with your favorite sandals or ankle boots for a fresh and flirty look. Product Details: V-neckline wrap design Short kimono sleeves Adjustable wrap tie Ankle length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "black",
+                    "white"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.694163",
+        "updated_at": "2025-09-15T02:50:03.694174",
+        "is_active": true
+    },
+    {
+        "product_id": "d8914ae0-3675-4a50-bfe8-b5c7e9924745",
+        "product_name": "Cleora Wrap Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [
+                "collared",
+                "v-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "411de441-91b3-4569-96d0-466d32b586c2",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-28-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-27-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-26-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-25-1-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-cleora-green-wrap-mini-dress/",
+                "full_text": "Cleora Green Wrap Mini Dress polyester Elevate your everyday style with this effortless olive green wrap dress. The soft, textured fabric keeps it comfortable, while the earthy olive tone makes it perfect for any occasion – from a casual day out to a spontaneous dinner date. Product Details: Collared V-neck with a wrap front Short sleeves Adjustable wrap tie Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Bust – 33″ Height – 5.8″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "red",
+                    "green",
+                    "olive",
+                    "tan"
+                ]
+            },
+            {
+                "variant_id": "4da3e2b8-ee48-4c0a-8010-56ef8cacc75d",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1105-copy-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1100-copy-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1093-copy-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1103-copy-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-cleora-black-wrap-mini-dress/",
+                "full_text": "Cleora Black Wrap Mini Dress polyester Effortlessly chic and charming, this black wrap dress is your new wardrobe essential. This dress brings a touch of timeless elegance to any occasion. The short sleeves make it perfect for warm weather. This versatile piece is a must-have for everything from coffee dates to garden parties. Product Details: Collared V-neck with a wrap front Short sleeves Adjustable wrap tie Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Bust – 33″ Height – 5.8″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "black",
+                    "red",
+                    "coffee"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.699937",
+        "updated_at": "2025-09-15T02:50:03.699952",
+        "is_active": true
+    },
+    {
+        "product_id": "46ca4ff5-a214-4554-bac0-bae2b8d0a63f",
+        "product_name": "Serra Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "puff-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "sweetheart"
+            ],
+            "details": [
+                "ruched",
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "107625c2-401d-4e9b-ba90-52e4dcd21a6e",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-32-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-29-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-31-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-30-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-serra-green-mini-dress/",
+                "full_text": "Serra Green Mini Dress cotton Twirl into summer with this charming teal mini dress. Made from lightweight fabric, this dress ensures breezy comfort on warm days, and the fresh teal hue makes it an absolute showstopper. Product Details: Sweetheart with ruched center detail Short puff sleeves with elasticated cuffs Ruched center detail Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Cotton No stretch",
+                "color": [
+                    "green",
+                    "teal"
+                ]
+            },
+            {
+                "variant_id": "2589be8a-c47c-4eb0-846f-1989df8dca02",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-12-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-10-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-09-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-11-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-serra-blue-mini-dress/",
+                "full_text": "Serra Blue Mini Dress cotton Channel sweet vintage vibes with a modern flair in our Puff Sleeve Dress. This mini dress is as flattering as it is flirty. The voluminous puff sleeves add a touch of drama, while the softly gathered skirt gives it that dreamy, twirl-worthy charm. Perfect for garden parties, brunch dates, or just feeling extra cute on any day. Product Details: Sweetheart with ruched center detail Short puff sleeves with elasticated cuffs Ruched center detail Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Cotton No stretch",
+                "color": [
+                    "red",
+                    "blue"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.712699",
+        "updated_at": "2025-09-15T02:50:03.712716",
+        "is_active": true
+    },
+    {
+        "product_id": "31de54db-2f79-48a6-af0c-5e4b8c1d0536",
+        "product_name": "Emily Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "puff-sleeves",
+                "long-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "asymmetrical",
+                "v-neck"
+            ],
+            "details": [
+                "ruched"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "c115c45d-8e3c-420e-a1d2-66e76cd60fce",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/IMG_7638-1366x2048.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/IMG_7636-1366x2048.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/IMG_7637-1366x2048.jpeg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/IMG_7639-1366x2048.jpeg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-emily-rust-orange-mini-dress/",
+                "full_text": "Emily Rust Orange Mini Dress polyester Slip into effortless elegance with our wrap dress. Where sophistication meets a flirty twist. This navy blue mini dress hugs in all the right places with its flattering wrap silhouette, Whether it’s date night or brunch with the girls, this little number is your go to for feeling confident and cute. Product Details: Wrap Mini Dress V-neck with subtle collar Long puff sleeves with gathered cuffs Adjustable side tie for a customized fit Asymmetrical wrap hem Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "red",
+                    "rust",
+                    "blue",
+                    "navy",
+                    "orange"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.719011",
+        "updated_at": "2025-09-15T02:50:03.719025",
+        "is_active": true
+    },
+    {
+        "product_id": "1471672e-7aa8-4a2d-b2ed-9efecd2cb051",
+        "product_name": "Moos Wrap Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [
+                "abstract",
+                "printed"
+            ],
+            "neckline": [
+                "v-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "bc8d2bcf-1e8d-432f-a913-d7248727c19d",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1160-copy-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1143-copy-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1148-copy-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1158-copy-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-moos-wrap-mini-dress/",
+                "full_text": "Moos Wrap Mini Dress polyester Step into style with this playful black-and-white printed mini dress. With its bold abstract pattern and easy wrap-around silhouette, it’s a true statement piece that will turn heads wherever you go. Whether you’re heading out for brunch or a night out with friends, this dress is your perfect companion for effortless chic. Product Details: V-neck Short kimono sleeves Adjustable wrap tie Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "black",
+                    "white"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.726485",
+        "updated_at": "2025-09-15T02:50:03.726496",
+        "is_active": true
+    },
+    {
+        "product_id": "e4f9581f-de50-4e78-aa76-a1000765472a",
+        "product_name": "Elliska Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "shirts & blouses",
+        "attributes": {
+            "silhouette": [
+                "slim",
+                "oversized"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "long-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "collared"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "2e8d1d2e-f3db-44f3-bae6-94bccf5ea199",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1052-copy-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1044-copy-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1037-copy-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/willz1038-copy-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-elliska-black-mini-dress/",
+                "full_text": "Elliska Black Mini Dress polyester Radiate timeless charm in this effortlessly elegant white shirt dress. With its flowing silhouette, tailored waist, and chic collared neckline, it’s the perfect piece for a relaxed yet polished look. Product Details: Collared shirt style with partial button-down front Long sleeves with subtle drawstring accents at the cuffs Wide fitted waistband to accentuate your shape Ankle length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "black",
+                    "white",
+                    "red"
+                ]
+            },
+            {
+                "variant_id": "9e40da38-de90-44e7-a285-aba23031d1bc",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-08-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-07-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-06-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-05-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-elliska-white-mini-dress/",
+                "full_text": "Elliska White Mini Dress polyester Radiate timeless charm in this effortlessly elegant white shirt dress. With its flowing silhouette, tailored waist, and chic collared neckline, it’s the perfect piece for a relaxed yet polished look. Product Details: Collared shirt style with partial button-down front Long sleeves with drawstring accents at the cuffs Wide fitted waistband to accentuate your shape Above knee length Back zipper SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "white",
+                    "red"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.734026",
+        "updated_at": "2025-09-15T02:50:03.734036",
+        "is_active": true
+    },
+    {
+        "product_id": "e7c3c35b-8760-4148-bc64-f698719916e4",
+        "product_name": "Dahlia Tube Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "oversized",
+                "straight"
+            ],
+            "fabric": [
+                "denim"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "strapless"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "a4fee69a-2e5e-49b4-8f3c-f0eaee4e33be",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/04/willz1205-copy-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/willz1187-copy-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/willz1189-copy-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/willz1193-copy-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-dahlia-tube-mini-dress/",
+                "full_text": "Dahlia Tube Mini Dress denim Get ready to turn heads in this flirty denim mini dress. With its strapless design and body-hugging silhouette, it perfectly balances a casual feel with an effortlessly stylish edge. The light blue denim gives off an airy, relaxed vibe, while the subtle seam details add a touch of structure. Perfect for a casual coffee catch-up either way, you’ll be the star of the show. Product Details: Strapless Straight-across neckline Slant pockets Back zipper Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ MATERIAL & CARE : Main Fabric – Denim Low stretch",
+                "color": [
+                    "blue",
+                    "coffee"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.740521",
+        "updated_at": "2025-09-15T02:50:03.740529",
+        "is_active": true
+    },
+    {
+        "product_id": "e05fa6bb-3b4b-4ee2-8bf0-aaf3dd46d59b",
+        "product_name": "Mina Tube Midi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "midi",
+        "attributes": {
+            "silhouette": [
+                "straight"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [
+                "abstract"
+            ],
+            "neckline": [
+                "strapless"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "a2de1c98-6209-41a8-87e7-b288dce9092d",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-16-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-14-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-13-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/05/WEB-15-1-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-mina-tube-midi-dress/",
+                "full_text": "Mina Tube Midi Dress polyester Step into modern elegance with the Abstract Strapless Midi Dress. This artsy piece features a bold patch-style print in soothing neutrals, creating a wearable canvas that’s both trendy and timeless. Perfect for showing off your shoulders and twirling through brunches, gallery dates, or evening soirées. It’s that effortlessly cool look that says you’re the art and the artist. Product Details: Strapless Midi Dress Straight strapless neckline Midi length Back zipper SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.746120",
+        "updated_at": "2025-09-15T02:50:03.746133",
+        "is_active": true
+    },
+    {
+        "product_id": "77ce7412-d949-40f2-bd5b-f9f9c9a04726",
+        "product_name": "Bubble Tube Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "flared",
+                "slim"
+            ],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "strapless"
+            ],
+            "details": [
+                "ruched"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "92dea011-7da5-4b37-90fd-106d8d589419",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-12-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-10-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-11-2-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-09-2-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-bubble-maroon-tube-mini-dress/",
+                "full_text": "Bubble Maroon Tube Mini Dress cotton Slip into effortless glam with this bold and breezy strapless mini dress. With its ruched bodice and flared skirt, it’s your go-to for sunny brunches, beachside dinners, or flirty date nights. Product Details: Strapless with ruched detailing Fitted with gathered front for a flattering silhouette Seamless transition into a softly flared skirt Back Zipper Above knee Length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Cotton No stretch",
+                "color": [
+                    "red",
+                    "maroon"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.760863",
+        "updated_at": "2025-09-15T02:50:03.760879",
+        "is_active": true
+    },
+    {
+        "product_id": "ade9f236-1db2-42b9-8e5d-cadb1347b859",
+        "product_name": "Enya Tube Midi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "midi",
+        "attributes": {
+            "silhouette": [
+                "bodycon"
+            ],
+            "fabric": [
+                "knit"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "strapless"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "8bb10b1a-8d02-41c4-b39a-fdff00b48eda",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-24-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-22-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-21-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-23-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-enya-tube-midi-dress/",
+                "full_text": "Enya Tube Midi Dress knit Turn heads and command confidence in this stunning black strapless bodycon dress. Crafted for a sleek silhouette, it hugs in all the right places perfect for evening elegance or upscale events. Product Details: Strapless Paneling detail Midi length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Knit Stretch",
+                "color": [
+                    "black"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.766935",
+        "updated_at": "2025-09-15T02:50:03.766949",
+        "is_active": true
+    },
+    {
+        "product_id": "415ba897-afcc-402c-832e-6e833030e543",
+        "product_name": "Amara Drop Shoulder Midi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "midi",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "knit"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [
+                "strapless"
+            ],
+            "details": [
+                "ruched"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "90a6597b-0b37-4af4-a52c-a3f3cc0707d9",
+                "price": {
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-08-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-07-1-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-05-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-09-1-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-amara-drop-shoulder-midi-dress/",
+                "full_text": "Amara Drop Shoulder Midi Dress knit Step into elegance with this dress, the perfect blend of softness and sophistication. The delicate lavender hue makes it ideal for brunches, bridal showers, date nights, or even a sunset soirée. Product Details: Off-shoulder with asymmetric neck Short ruched sleeves for added flair Back slit Midi Length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Knit Stretch",
+                "color": [
+                    "lavender"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.779642",
+        "updated_at": "2025-09-15T02:50:03.779656",
+        "is_active": true
+    },
+    {
+        "product_id": "e856f48e-56de-4110-82c2-3bb89bbca040",
+        "product_name": "Lilac Drawstring Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "oversized"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "b2916071-8e61-4ca9-b232-b9ef426e821f",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-13-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-12-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-10-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-11-1-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-lilac-drawstring-mini-dress/",
+                "full_text": "Lilac Drawstring Mini Dress polyester Say hello to your new sunny-day favorite Mini Dress. This dress is all about sweet, carefree vibes. The relaxed fit and cinched waist give you that perfect balance of comfy and cute. Whether you’re heading to brunch, the beach, or just a stroll in the sunshine, this one’s got your back. Product Details: Classic collar with tie-front detail V neck with tie-front bow detail Elasticated waist Wide, flowy half-length kimono sleeves Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.785533",
+        "updated_at": "2025-09-15T02:50:03.785547",
+        "is_active": true
+    },
+    {
+        "product_id": "218a135d-5816-4b57-9d0d-714a96489e29",
+        "product_name": "Monaco Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "slim"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "balloon-sleeves",
+                "long-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "ruched",
+                "smocked"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "cc62e2fb-4dda-4871-9bef-a9e338bdbdaa",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-04-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-01-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-02-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/04/WEB-03-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-monaco-mini-dress/",
+                "full_text": "Monaco Mini Dress polyester Timeless charm meets modern elegance in our Smocked Mini Dress. With its dreamy neutral hue and romantic ruched bodice, this piece is perfect for everything from brunch dates to boardrooms. It’s effortless, elevated, and endlessly chic. Product Details: Fitted mini dress with smocked bodice Long balloon sleeves with gathered cuffs Back zipper Back slit Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36″ MATERIAL & CARE : Main Fabric – Polyester Low stretch",
+                "color": [
+                    "red"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.792630",
+        "updated_at": "2025-09-15T02:50:03.792645",
+        "is_active": true
+    },
+    {
+        "product_id": "6128b0d2-e67c-47d8-83e9-7396fdf9ff1b",
+        "product_name": "Callie Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "shirts & blouses",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "collared",
+                "v-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "6600a799-f5a3-44d2-9092-2e50769072d6",
+                "price": {
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-30-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-28-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-27-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-29-1365x2048.jpg"
+                ],
+                "in_stock": false,
+                "pdp_url": "https://bayleee.com/product/bayleee-callie-mini-dress/",
+                "full_text": "Callie Mini Dress cotton twill Timeless, sophisticated, and effortlessly stylish, this button-down mini dress is a wardrobe essential. This dress is the perfect blend of elegance and casual charm. Designed to flatter your figure, it hugs in all the right places while allowing for comfortable movement. Perfect for a brunch date, office chic, or a night out. Product Details: Collared V-neck Sleeveless Side zipper Front show button Side Pockets Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.6″ Bust – 33″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Cotton Twill No stretch",
+                "color": [
+                    "red"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.798912",
+        "updated_at": "2025-09-15T02:50:03.798927",
+        "is_active": true
+    },
+    {
+        "product_id": "8df0932f-7b91-475c-a786-678c36a8f0ae",
+        "product_name": "Ottile Midi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [
+                "v-neck"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "ac79eaa2-2df5-44bd-8923-085d868517fe",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-08-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-06-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-05-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-07-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-ottile-midi-dress/",
+                "full_text": "Ottile Midi Dress polyester Feminine, flattering, and effortlessly chic, this strappy midi dress is a must have for your wardrobe. Whether you’re heading to a brunch date, a garden party, or a romantic evening out, this dress exudes timeless charm. Product Details: V-neck wrap-style bodice Back zipper and tie detail Adjustable double strap Midi length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.805740",
+        "updated_at": "2025-09-15T02:50:03.805751",
+        "is_active": true
+    },
+    {
+        "product_id": "aefc7d89-35b3-4e41-a016-8ea854714e9e",
+        "product_name": "Zoey Tube Midi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "shirts & blouses",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "long-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "ce1f6aed-1fff-44d3-be7f-2891f6c329a6",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-12-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-11-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-09-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-10-2-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-zoey-tube-midi-dress/",
+                "full_text": "Zoey Tube Midi Dress polyester Stay effortlessly stylish with this modern and playful shirt dress. This dress is designed to keep you looking fresh and fabulous all day long. This dress strikes the perfect balance between classy and fun. Perfect for brunch dates, casual outings, or office chic looks, this dress is a versatile wardrobe essential that you can dress up or down with ease. Product Details: Back zipper Midi length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 33″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.809088",
+        "updated_at": "2025-09-15T02:50:03.809096",
+        "is_active": true
+    },
+    {
+        "product_id": "f1536031-d9e9-49ba-a9a8-2214e689890b",
+        "product_name": "Tatito Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "knit"
+            ],
+            "sleeves": [
+                "bell-sleeves",
+                "long-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "a06ba99c-706a-407f-960c-bcb6b722afd3",
+                "price": {
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
                     "uk-08-s",
                     "uk-10-m",
                     "uk-12-l"
                 ],
                 "images": [
-                    "https://glamourista.com/images/aurora-gown-main.jpg",
-                    "https://glamourista.com/images/aurora-gown-back.jpg"
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-12-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-11-1-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-09-1-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/03/WEB-10-1-1366x2048.jpg"
                 ],
                 "in_stock": true,
-                "pdp_url": "https://glamourista.com/product/aurora-satin-evening-gown/",
-                "full_text": "Aurora Satin Evening Gown. Shine at any event with this elegant fit-and-flare satin gown, featuring cap sleeves and a dramatic side slit. Perfect for parties and weddings.",
-                "color": ["navy", "champagne"]
+                "pdp_url": "https://bayleee.com/product/bayleee-tatito-mini-dress/",
+                "full_text": "Tatito Mini Dress knit Step into effortless elegance with this stunning bell-sleeve dress. Designed for a chic and sophisticated look. The figure-hugging fit flatters your silhouette, while the mini length keeps it modern and playful. Whether you’re heading to a dinner date, a night out, or a stylish event, this dress is your perfect go-to piece for making an elegant statement. Product Details: Long bell Sleeve Back bow detail Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Knit Stretch",
+                "color": []
             }
         ],
-        "created_at": "2025-09-18T11:22:35.000000",
-        "updated_at": "2025-09-18T11:22:35.000000",
+        "created_at": "2025-09-15T02:50:03.814774",
+        "updated_at": "2025-09-15T02:50:03.814786",
         "is_active": true
     },
     {
-        "product_id": "e3c4f5b6-7d8e-9a0b-1c2d-3e4f5a6b7c8d",
-        "product_name": "Casual Linen Shirt",
-        "brand_slug": "urbanedge",
-        "gender": ["men"],
-        "category": "shirts",
-        "product_type": "casual",
+        "product_id": "9036ea2e-dbfe-457d-bcc0-bcd6892bfb03",
+        "product_name": "Torah Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
         "attributes": {
-            "silhouette": ["regular"],
-            "fabric": ["linen"],
-            "sleeves": ["long-sleeve"],
-            "pattern": ["checked"],
-            "neckline": ["collared"],
-            "details": ["button-down"]
+            "silhouette": [
+                "bodycon"
+            ],
+            "fabric": [
+                "knit"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [],
+            "details": []
         },
-        "occasion": ["office", "casual"],
-        "style": ["modern"],
+        "occasion": [],
+        "style": [],
         "variants": [
             {
-                "variant_id": "abcd1234-ef56-7890-gh12-ijkl34567890",
+                "variant_id": "7ff600e5-914c-4a0b-9121-13fb38cbdbce",
                 "price": {
-                    "marked_price": 3490,
-                    "discount_percent": 5,
-                    "final_price": 3315.5
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
                 },
                 "sizes": [
-                    "uk-38-m",
-                    "uk-40-l",
-                    "uk-42-xl"
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l"
                 ],
                 "images": [
-                    "https://urbanedge.com/images/linen-shirt-blue.jpg"
+                    "https://bayleee.com/wp-content/uploads/2025/02/WEB-08-3-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/02/WEB-07-3-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/02/WEB-06-4-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/02/WEB-05-3-1365x2048.jpg"
                 ],
-                "in_stock": false,
-                "pdp_url": "https://urbanedge.com/product/casual-linen-shirt/",
-                "full_text": "Casual Linen Shirt. Stay cool and stylish with this checked linen shirt featuring a classic collar and button-down details. Ideal for both office and weekend wear.",
-                "color": ["blue", "white"]
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-torah-mini-dress/",
+                "full_text": "Torah Mini Dress knit Turn heads effortlessly in this chic bodycon dress that hugs your curves in all the right places. Designed for a flattering silhouette, this dress features a minimalist yet timeless design, making it the perfect go to piece for any occasion. Whether you’re dressing up for a night out or keeping it casual with sneakers, this wardrobe essentially ensures you look stylish and feel comfortable. Product Details: Back open Short sleeve Above knee length SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Knit Stretch",
+                "color": []
             }
         ],
-        "created_at": "2025-09-20T09:10:22.000000",
-        "updated_at": "2025-09-20T09:10:22.000000",
+        "created_at": "2025-09-15T02:50:03.818393",
+        "updated_at": "2025-09-15T02:50:03.818401",
+        "is_active": true
+    },
+    {
+        "product_id": "e440e71d-b7eb-4fc0-9991-e1bcb1d9b440",
+        "product_name": "Misa Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "5666742a-ffe5-42ff-a51b-ba2787e72ed8",
+                "price": {
+                    "marked_price": 6890,
+                    "discount_percent": null,
+                    "final_price": 6890
+                },
+                "sizes": [
+                    "uk-04-xxs",
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/01/WEB-13-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/01/WEB-10-3-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/01/WEB-11-2-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/01/WEB-12-4-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-misa-mini-dress/",
+                "full_text": "Misa Mini Dress",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.822309",
+        "updated_at": "2025-09-15T02:50:03.822320",
+        "is_active": true
+    },
+    {
+        "product_id": "8b5e7cc7-93ef-4245-b2ff-37812192d06f",
+        "product_name": "Reia Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "satin"
+            ],
+            "sleeves": [
+                "puff-sleeves",
+                "3/4-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [
+                "square-neck"
+            ],
+            "details": [
+                "ruched"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "972fea3f-a751-48aa-8e35-37f5c3c7ca69",
+                "price": {
+                    "marked_price": 6890,
+                    "discount_percent": null,
+                    "final_price": 6890
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2025/02/WEB-05-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/02/WEB-06-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/02/WEB-08-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2025/02/WEB-07-1-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-reia-mini-dress/",
+                "full_text": "Reia Mini Dress satin Step into charm and grace with this mini dress, the perfect combination of feminine elegance and playful flair. Crafted from a soft, lightweight fabric, this dress ensures all-day comfort while keeping you stylish. Whether you’re heading for a brunch date, a garden party, or a special evening out, this dress is a must-have for your wardrobe. Product Details: Square neckline Puffed three-quarter sleeves with gathered cuffs Above knee length Back zipper Back tie detail SIZE & FIT : Studio model is wearing size XS/6 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Satin No stretch",
+                "color": [
+                    "red"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.823027",
+        "updated_at": "2025-09-15T02:50:03.823033",
+        "is_active": true
+    },
+    {
+        "product_id": "07c16a4e-8ea6-4ca8-b3df-d474d6c1b328",
+        "product_name": "Skyler Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "81835480-064a-49be-9c5b-d6ff9591b8d7",
+                "price": {
+                    "marked_price": 6290,
+                    "discount_percent": null,
+                    "final_price": 6290
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/10/WEB-50-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/10/WEB-51-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/10/WEB-52-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/10/WEB-48-4-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-skyler-mini-dress/",
+                "full_text": "Skyler Mini Dress",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.827625",
+        "updated_at": "2025-09-15T02:50:03.827639",
+        "is_active": true
+    },
+    {
+        "product_id": "2a56d7dc-9dc7-4213-a1b5-e44f9865d1d4",
+        "product_name": "Cowl Neck Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "satin",
+                "polyester"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "b82c794d-38fc-42cc-8e5b-651af35fef48",
+                "price": {
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-41-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-40-3-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-38-3-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-39-3-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-blue-cowl-neck-mini-dress/",
+                "full_text": "Blue Cowl Neck Mini Dress polyester Sleek, sultry, and sophisticated this mini dress is your ultimate go-to for an effortlessly glamorous look. Perfect for date nights, parties, or special occasions, this dress radiates timeless charm and modern style. Make every moment memorable with this stunning satin dress, it’s a wardrobe essential for those glamorous evenings. Product Details: Cowl neckline Adjustable spaghetti straps Back zipper Above knee length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "blue"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.828899",
+        "updated_at": "2025-09-15T02:50:03.828910",
+        "is_active": true
+    },
+    {
+        "product_id": "2b57f8cc-d139-4ae3-9ae4-3971ef4fca3b",
+        "product_name": "Orla Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "shirts & blouses",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "ruched"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "fb81fe85-c5cc-4295-8cf1-06e81b033f46",
+                "price": {
+                    "marked_price": 6990,
+                    "discount_percent": null,
+                    "final_price": 6990
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/12/web-9-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/web-12-3-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/web-11-4-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/web-10-5-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-orla-mini-dress/",
+                "full_text": "Orla Mini Dress cotton Add a playful charm to your wardrobe with this mini dress . This dress effortlessly combines comfort with style. Perfect for a brunch date or a casual evening out, this dress will have you radiating effortless grace wherever you go Product Details: Ruched bodice Adjustable spaghetti double straps Button-down detail Back zipper Above knee length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Cotton No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.835756",
+        "updated_at": "2025-09-15T02:50:03.835771",
+        "is_active": true
+    },
+    {
+        "product_id": "3fa337d9-398d-4fcc-86cd-047c20a839ac",
+        "product_name": "Clover Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap",
+                "slim"
+            ],
+            "fabric": [
+                "satin"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "lace"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "dd03a022-240e-45be-b498-a437800dcadb",
+                "price": {
+                    "marked_price": 6590,
+                    "discount_percent": null,
+                    "final_price": 6590
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-34-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-36-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-37-2-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-35-2-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-clover-mini-dress/",
+                "full_text": "Clover Mini Dress satin Get ready to turn heads with this effortlessly chic and playful mini dress. While the fitted bodice and flattering silhouette celebrate your curves in all the right places.This dress is perfect for brunch with friends, a romantic date, or that special occasion where you want to feel confident and stylish. Crafted from lightweight, breathable fabric, it keeps you comfortable without compromising on elegance. Product Details: Adjustable lace-up front Spaghetti straps Asymmetric wrap-effect Back zipper Above knee length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Satin No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.841682",
+        "updated_at": "2025-09-15T02:50:03.841694",
+        "is_active": true
+    },
+    {
+        "product_id": "2ff98055-a812-4200-ba54-5ad6a93ec2ab",
+        "product_name": "Supi Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "maxi",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "satin"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "612c8701-7e77-4695-8852-3d6f9be52abb",
+                "price": {
+                    "marked_price": 8990,
+                    "discount_percent": null,
+                    "final_price": 8990
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/12/web-13-4-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/web-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/web-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/web-3-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-supi-black-maxi-dress/",
+                "full_text": "Supi Black Maxi Dress satin Make a grand entrance with this gorgeous burgundy evening gown. This dress combines elegance with a hint of romance. Perfect for weddings, galas, or formal soirées. This timeless piece will make you feel like the belle of the ball. Turn heads and make memories in this beautiful maxi dress, perfect for celebrating life’s special moments Product Details: Pin tuck bust detailing Adjustable spaghetti straps Knee length Back zipper SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Satin No stretch",
+                "color": [
+                    "black",
+                    "burgundy"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.849331",
+        "updated_at": "2025-09-15T02:50:03.849345",
+        "is_active": true
+    },
+    {
+        "product_id": "f4dbda78-dd38-40af-8dbe-7e7ade11f9c4",
+        "product_name": "Gleam Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "satin"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "strapless"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "64234f21-216f-425a-8d76-7c59e4cd1864",
+                "price": {
+                    "marked_price": 6590,
+                    "discount_percent": null,
+                    "final_price": 6590
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-12-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-11-3-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-11-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/web-09-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-10-2-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-gleam-mini-dress/",
+                "full_text": "Gleam Mini Dress satin Unleash your inner diva with this stunning mini dress. Designed for those who love to make a bold and elegant statement. Perfect for cocktail parties, romantic dinners, or celebratory nights out, this dress will have all eyes on you. Product Details: Strapless neckline Draped wrap skirt Above knee length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Satin No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.854923",
+        "updated_at": "2025-09-15T02:50:03.854934",
+        "is_active": true
+    },
+    {
+        "product_id": "a79148e2-2ea3-46d1-bf33-fbbbc9bee9fb",
+        "product_name": "Odelle Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "sleeveless"
+            ],
+            "pattern": [],
+            "neckline": [
+                "strapless"
+            ],
+            "details": [
+                "pleated"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "c71556b8-6557-4345-b782-b2741b8d8fc1",
+                "price": {
+                    "marked_price": 6490,
+                    "discount_percent": null,
+                    "final_price": 6490
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-16-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-13-3-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-15-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-14-3-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-odelle-mini-dress/",
+                "full_text": "Odelle Mini Dress polyester Step into effortless elegance with this mini dress, perfect for adding a playful yet sophisticated vibe to your wardrobe. Whether it’s a casual brunch or a special occasion, this dress is designed to make you feel confident and chic. Product Details: Strapless neckline Structured bodice Box pleated skirt Back zipper Above knee length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": [
+                    "red"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.859345",
+        "updated_at": "2025-09-15T02:50:03.859356",
+        "is_active": true
+    },
+    {
+        "product_id": "6038125e-0272-46c9-af22-99b4de554a8a",
+        "product_name": "Aluna Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap",
+                "slim"
+            ],
+            "fabric": [
+                "satin"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": [
+                "lace"
+            ]
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "395ab3f5-00b8-46be-8b33-9d0cce0aebee",
+                "price": {
+                    "marked_price": 6590,
+                    "discount_percent": null,
+                    "final_price": 6590
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-03-1-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-01-1-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-02-1-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-aluna-mini-dress/",
+                "full_text": "Aluna Mini Dress satin Get ready to turn heads with this effortlessly chic and playful mini dress. While the fitted bodice and flattering silhouette celebrate your curves in all the right places. This dress is perfect for brunch with friends, a romantic date, or that special occasion where you want to feel confident and stylish. Crafted from lightweight, breathable fabric, it keeps you comfortable without compromising on elegance. Product Details: Adjustable lace-up front Spaghetti straps Asymmetric wrap-effect Back zipper Above knee length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Satin No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.862532",
+        "updated_at": "2025-09-15T02:50:03.862538",
+        "is_active": true
+    },
+    {
+        "product_id": "49937c42-8a5e-4a6c-98da-628080a20aeb",
+        "product_name": "Vilma Bodycon Midi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "midi",
+        "attributes": {
+            "silhouette": [
+                "bodycon"
+            ],
+            "fabric": [
+                "knit"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [
+                "asymmetrical"
+            ],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "7d179305-6ca7-4b3d-8f73-4a43542bb5c7",
+                "price": {
+                    "marked_price": 6590,
+                    "discount_percent": null,
+                    "final_price": 6590
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-09-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-10-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-11-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-12-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-vilma-bodycon-midi-dress/",
+                "full_text": "Vilma Bodycon Midi Dress knit This one-shoulder midi dress is a showstopper for any occasion. Stitched from a soft, stretchy fabric, it ensures all-day comfort without compromising on style. Perfect for cocktail parties, evening events, or a glamorous night out, this dress is the ultimate blend of sophistication and allure. Product Details: One-shoulder style with an asymmetrical neckline and strap detailing Body Hugging Knee length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Knit Stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.866471",
+        "updated_at": "2025-09-15T02:50:03.866477",
+        "is_active": true
+    },
+    {
+        "product_id": "4b60dce9-8444-49ce-8775-e375e68904c6",
+        "product_name": "Mavie Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [
+                "puff-sleeves"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "3d4689e1-489b-4f2f-b1a2-02ee3f17c5f9",
+                "price": {
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-20-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-19-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-17-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/12/WEB-18-1366x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-mavie-mini-dress/",
+                "full_text": "Mavie Mini Dress polyester Slip into this elegant mini dress for a look that’s equal parts sweet and sophisticated. This dress offers a perfect fit that hugs your curves while keeping you comfortable. Making this dress a timeless addition to your wardrobe. Perfect for brunch, casual outings, or an evening date, this dress is versatile, chic, and effortlessly stylish. Product Details: Wrap style V-neckline Short puff sleeves with elastic cuffs Back zipper Above knee length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.871642",
+        "updated_at": "2025-09-15T02:50:03.871657",
+        "is_active": true
+    },
+    {
+        "product_id": "511d3340-b8b6-41bd-98b8-823131c35a56",
+        "product_name": "Nevra Maxi Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "maxi",
+        "attributes": {
+            "silhouette": [
+                "wrap"
+            ],
+            "fabric": [
+                "satin"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "1264d76d-f19c-46dd-a53d-d173ead9cc92",
+                "price": {
+                    "marked_price": 8950,
+                    "discount_percent": null,
+                    "final_price": 8950
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/11/Web-41-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/11/WEb-39-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/11/Web-38-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/11/Web-40-2-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-nevra-black-maxi-dress/",
+                "full_text": "Nevra Black Maxi Dress satin Embrace timeless elegance with this stunning black maxi dress. Designed for effortless charm. The flowing, full-length skirt adds a graceful touch, making it ideal for evening soirees, formal gatherings, or romantic dinners. Sophisticated yet comfortable, this dress will make you feel like the star of any occasion. Product Details: Wrap-style bodice with a V neckline Adjustable spaghetti straps Elastic waist Ankle length Back zipper Side pockets SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Satin No stretch",
+                "color": [
+                    "black"
+                ]
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.878723",
+        "updated_at": "2025-09-15T02:50:03.878737",
+        "is_active": true
+    },
+    {
+        "product_id": "42baf92f-3135-4388-b05f-17fed115e99d",
+        "product_name": "Shinoh Cowl Neck Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "satin",
+                "polyester"
+            ],
+            "sleeves": [
+                "straps"
+            ],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "11fea050-5a67-463f-96f8-49af878e9320",
+                "price": {
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/11/Web-13-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/11/WEb-11-2-1366x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/11/WEb-10-2-1365x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/11/Web-12-2-1365x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-shinoh-cowl-neck-mini-dress/",
+                "full_text": "Shinoh Cowl Neck Mini Dress polyester Sleek, sultry, and sophisticated this mini dress is your ultimate go to for an effortlessly glamorous look. Perfect for date nights, parties, or special occasions, this dress radiates timeless charm and modern style. Make every moment memorable with this stunning satin dress, it’s a wardrobe essential for those glamorous evenings. Product Details: Cowl neckline Adjustable spaghetti straps Back zipper Above knee length SIZE & FIT : Studio model is wearing size S/8 UK Studio model measurements are : Height – 5.8″ Bust – 34″ Waist – 26″ Hip – 36” MATERIAL & CARE : Main Fabric – Polyester No stretch",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.885847",
+        "updated_at": "2025-09-15T02:50:03.885864",
+        "is_active": true
+    },
+    {
+        "product_id": "049709a4-bdb5-4658-9af4-5222f1dd298a",
+        "product_name": "Fiora Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "polyester"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "4a42e467-4c02-410c-b0ce-4e6eb2d99294",
+                "price": {
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/09/WEB-IMAGE-10-3-1349x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/09/WEB-IMAGE-07-3-1349x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/09/WEB-IMAGE-08-3-1349x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-fiora-mini-dress/",
+                "full_text": "Fiora Mini Dress polyester",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.890811",
+        "updated_at": "2025-09-15T02:50:03.890822",
+        "is_active": true
+    },
+    {
+        "product_id": "6a4cfca3-547b-4fcd-a863-bcd05292c9aa",
+        "product_name": "Lucy Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "viscose"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "2d071c13-dd9b-45ca-8038-bfcd3f7efe79",
+                "price": {
+                    "marked_price": 6290,
+                    "discount_percent": null,
+                    "final_price": 6290
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/09/WEB-IMAGE-39-1-1349x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/09/WEB-IMAGE-36-1-1349x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/09/WEB-IMAGE-34-2-1349x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-lucy-mini-dress/",
+                "full_text": "Lucy Mini Dress viscose twill",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.893522",
+        "updated_at": "2025-09-15T02:50:03.893528",
+        "is_active": true
+    },
+    {
+        "product_id": "4d06f978-ef3c-497b-a02e-98a2e452b36a",
+        "product_name": "Neli Mini Dress",
+        "brand_slug": "bayleee",
+        "gender": [
+            "women"
+        ],
+        "category": "western-dresses",
+        "product_type": "mini",
+        "attributes": {
+            "silhouette": [],
+            "fabric": [
+                "cotton"
+            ],
+            "sleeves": [],
+            "pattern": [],
+            "neckline": [],
+            "details": []
+        },
+        "occasion": [],
+        "style": [],
+        "variants": [
+            {
+                "variant_id": "ad638f64-f831-46be-8a0f-66fe4002fbaf",
+                "price": {
+                    "marked_price": 5990,
+                    "discount_percent": null,
+                    "final_price": 5990
+                },
+                "sizes": [
+                    "uk-06-xs",
+                    "uk-08-s",
+                    "uk-10-m",
+                    "uk-12-l",
+                    "uk-14-xl"
+                ],
+                "images": [
+                    "https://bayleee.com/wp-content/uploads/2024/09/WEB-IMAGE-44-1-1349x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/09/WEB-IMAGE-40-1-1349x2048.jpg",
+                    "https://bayleee.com/wp-content/uploads/2024/09/WEB-IMAGE-41-1-1349x2048.jpg"
+                ],
+                "in_stock": true,
+                "pdp_url": "https://bayleee.com/product/bayleee-neli-mini-dress/",
+                "full_text": "Neli Mini Dress 20% cotton",
+                "color": []
+            }
+        ],
+        "created_at": "2025-09-15T02:50:03.894019",
+        "updated_at": "2025-09-15T02:50:03.894023",
         "is_active": true
     }
 ]
