@@ -1,93 +1,145 @@
-# E-commerce Search Bar MVP (Phase 1)
+# E-COMMERCE-AI-INTEGRATED-SEARCH-BAR
 
-your_project/
-├── app/
-│   └── main.py                  # FastAPI entry point (API endpoints)
-├── search/
-│   ├── __init__.py              # Makes 'search' a Python module
-│   ├── indexer.py               # Loads product JSON, builds Whoosh index
-│   └── searcher.py              # Search, autocomplete, filtering logic
+An AI-powered search bar for e-commerce, built with Python (FastAPI + Whoosh) and a React.js frontend.  
+Supports fuzzy search, autocomplete, filtering, and product cards from your catalog.
+
+---
+
+## 📁 File Structure
+
+```
+E-COMMERCE-AI-INTEGRATED-SEARCH-BAR/
+├── app/                     # FastAPI app (main.py: API endpoints)
+│   └── main.py
+├── search/                  # Search logic and Whoosh indexer
+│   ├── __init__.py
+│   ├── indexer.py           # Index builder from products.json
+│   └── searcher.py          # Search and autocomplete engine
 ├── data/
-│   └── products.json            # Your product dataset (example or real)
-├── requirements.txt             # Python dependencies
-├── README.md                    # Setup, usage, API doc
-
-This implements a Whoosh-powered keyword search with autocomplete, fuzzy matching, and faceted filters via FastAPI.
-
-## Features
-- Keyword search across product_name, category, attributes, full_text
-- Fuzzy/typo tolerance (`dreess` → `dress`)
-- Facets: price range, size, color, brand, in-stock
-- Relevance boosting: product_name > attributes > full_text
-- Autocomplete/typeahead for product names, categories, brands
-- Results with product card fields and simple highlighting
-
-## Data format (example)
-`data/products.json` should be a list or `{ "products": [...] }` where each product includes:
-
-```json
-{
-  "id": "SKU-123",
-  "product_name": "Iveena Dress",
-  "brand_slug": "iveena",
-  "category": "dresses",
-  "product_type": "evening",
-  "attributes": ["strapless", "silk"],
-  "full_text": "An elegant strapless silk dress in emerald green.",
-  "price": { "final_price": 129.99 },
-  "variants": { "images": ["https://example.com/img/iveena.jpg"] },
-  "sizes": ["S", "M", "L"],
-  "color": "emerald",
-  "in_stock": true,
-  "pdp_url": "https://shop.example.com/p/iveena-dress"
-}
+│   └── products.json        # Your product catalog data
+├── requirements.txt         # Python backend dependencies
+├── ui/                      # React frontend (Create React App)
+│   ├── public/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── SearchBar.js
+│   │   ├── ProductList.js
+│   │   └── index.js
+│   ├── package.json
+│   └── ...
+└── README.md
 ```
 
-## Setup
+---
 
-1) Install deps
-```
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
+## 🚀 Backend Setup
 
-2) Prepare data
-- Put your dataset at `data/products.json`
+1. **Clone the repo and create a virtual environment:**
 
-3) Build index
-```
-python -m search.indexer --data data/products.json --index indexdir
-```
+   ```bash
+   git clone https://github.com/n1s1th/E-COMMERCE-AI-INTEGRATED-SEARCH-BAR.git
+   cd E-COMMERCE-AI-INTEGRATED-SEARCH-BAR
+   python -m venv env
+   source env/bin/activate   # or .\env\Scripts\activate on Windows
+   ```
 
-4) Run API
-```
-uvicorn app.main:app --reload --port 8000
-```
+2. **Install backend dependencies:**
 
-5) Try it
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-- Search:
-```
-curl "http://localhost:8000/search?q=Iveena%20Dress"
-curl "http://localhost:8000/search?q=dreess&fuzzy=true"
-curl "http://localhost:8000/search?q=strapless&color=emerald&price_min=50&price_max=200&in_stock=true"
-curl "http://localhost:8000/search?q=dress&brand=iveena&size=S,M"
-```
+3. **Build the Whoosh index from your products:**
 
-- Autocomplete:
-```
-curl "http://localhost:8000/autocomplete?q=iv"
-```
+   ```bash
+   python -m search.indexer --data data/products.json --index indexdir
+   ```
 
-## Notes and tips
-- Fuzzy matching: By default enabled with a max edit distance of 1 for tokens length >= 4.
-- Facets: Pass multiple values as comma-separated lists (e.g., `size=S,M`).
-- Highlighting: Simple highlights on `product_name` or `attributes`.
-- Performance: Whoosh is great for MVPs and small-medium catalogs. For large-scale, migrate to OpenSearch/Elasticsearch with analyzers and aggregations.
+4. **Start the FastAPI server:**
 
-## Next phases
-- Add aggregations for facets (counts per brand/color/size)
-- Synonyms (e.g., "tee" ↔ "t-shirt")
-- Query understanding & re-ranking
-- Switch to ES/OpenSearch keeping the same API shape
+   ```bash
+   uvicorn app.main:app --reload --port 8000
+   ```
+
+   The API will be available at [http://localhost:8000](http://localhost:8000)  
+   Docs at [http://localhost:8000/docs](http://localhost:8000/docs)
+
+---
+
+## 💻 Frontend Setup
+
+1. **Install frontend dependencies (in the `ui` directory):**
+
+   ```bash
+   cd ui
+   npm install
+   ```
+
+2. **Start the React frontend:**
+
+   ```bash
+   npm start
+   ```
+
+   The UI will run at [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 🔗 Connecting Backend & Frontend
+
+- **CORS must be enabled** in FastAPI (`app/main.py`) for `http://localhost:3000` (already shown in backend code).
+- The React app fetches from `http://localhost:8000/search` and `/autocomplete`.
+
+---
+
+## 📝 Usage
+
+- Use the search bar on the frontend to search products by name, category, attributes, etc.
+- Results are displayed as product cards.
+- Autocomplete suggestions appear as you type.
+- Supports filtering by brand, category, color, size, price, and stock status (see API docs for query parameters).
+
+---
+
+## 🛠️ API Endpoints
+
+- `GET /search` — Search products (with filters, pagination, fuzzy matching)
+- `GET /autocomplete` — Get autocomplete suggestions
+
+See interactive docs at `/docs` for details.
+
+---
+
+## 📦 Requirements
+
+**Backend:**
+- Python 3.9+
+- fastapi
+- uvicorn
+- whoosh
+- pydantic
+
+**Frontend:**
+- Node.js 16+
+- React (Create React App or Next.js)
+
+---
+
+## 🤖 Customization
+
+- Add more product fields in `data/products.json` and update `search/indexer.py` schema.
+- Tweak search relevance in `search/searcher.py`.
+- Customize UI in `ui/src/`.
+
+---
+
+## 🏁 License
+
+MIT
+
+---
+
+## 🙏 Credits
+
+Built by [n1s1th](https://github.com/n1s1th)  
+Powered by FastAPI, Whoosh, and React.
