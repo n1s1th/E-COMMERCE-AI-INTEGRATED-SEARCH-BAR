@@ -1,4 +1,7 @@
 # .gitignore
 env
+.venv
 node_modules
-ecommerce-ui\node_modules
+ecommerce-ui/node_modules
+__pycache__/
+*.py[cod]

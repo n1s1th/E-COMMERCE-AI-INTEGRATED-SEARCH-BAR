@@ -71,7 +71,7 @@ E-COMMERCE-AI-INTEGRATED-SEARCH-BAR/
 1. **Install frontend dependencies (in the `ui` directory):**
 
    ```bash
-   cd ui
+   cd ecommerce-ui
    npm install
    ```
 
@@ -129,7 +129,7 @@ See interactive docs at `/docs` for details.
 
 - Add more product fields in `data/products.json` and update `search/indexer.py` schema.
 - Tweak search relevance in `search/searcher.py`.
-- Customize UI in `ui/src/`.
+- Customize UI in `ecommerce-ui/src/`.
 
 ---
 
